@@ -1,0 +1,189 @@
+# Copyright (C) 2017 user-menus
+# This file is distributed under the same license as the user-menus package.
+msgid ""
+msgstr ""
+"Project-Id-Version: user-menus\n"
+"Report-Msgid-Bugs-To: danieliser@wizardinternetsolutions.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Language-Team: Daniel Iser <danieliser@wizardinternetsolutions.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: includes/classes/admin/menu-editor.php:55
+msgid "User Links"
+msgstr ""
+
+#: includes/classes/admin/menu-editor.php:67
+msgid "Login"
+msgstr ""
+
+#: includes/classes/admin/menu-editor.php:71
+msgid "Logout"
+msgstr ""
+
+#: includes/classes/admin/menu-editor.php:162
+msgid "Insert User Menu Codes"
+msgstr ""
+
+#: includes/classes/admin/menu-importer.php:42
+msgid "WP Nav Menus"
+msgstr ""
+
+#: includes/classes/admin/menu-importer.php:43
+msgid "Import nav menus and other menu item meta skipped by the default importer"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:40
+msgid "Avatar Size"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:55
+msgid "Current Page"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:56
+msgid "Home Page"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:57
+msgid "Custom URL"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:64
+msgid "Where should users be taken afterwards?"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:82
+msgid "Enter a url user should be redirected to"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:93
+msgid "Everyone"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:94
+msgid "Logged Out Users"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:95
+msgid "Logged In Users"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:102
+msgid "Who can see this link?"
+msgstr ""
+
+#: includes/classes/admin/menu-settings.php:118
+msgid "Choose which roles can see this link"
+msgstr ""
+
+#: includes/classes/admin/reviews.php:230
+msgid "Hi there! You've been using the User Menus plugin on your site for %s now - We hope it's been helpful. If you're enjoying the plugin, would you mind rating it 5-stars to help spread the word?"
+msgstr ""
+
+#: includes/classes/admin/reviews.php:235
+msgid "2 weeks"
+msgstr ""
+
+#: includes/classes/admin/reviews.php:243
+msgid "3 months"
+msgstr ""
+
+#: includes/classes/admin/reviews.php:396
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: includes/classes/admin/reviews.php:401
+msgid "Nope, maybe later"
+msgstr ""
+
+#: includes/classes/admin/reviews.php:406
+msgid "I already did"
+msgstr ""
+
+#: includes/classes/importer/menu.php:97
+msgid "Import Nav Menus"
+msgstr ""
+
+#: includes/classes/importer/menu.php:104
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/classes/importer/menu.php:114
+msgid "Upload your WordPress export (WXR) file and import the Nav Menus and any meta for the Nav Menu items."
+msgstr ""
+
+#: includes/classes/importer/menu.php:115
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/classes/importer/menu.php:130, includes/classes/importer/menu.php:135, includes/classes/importer/menu.php:145, includes/classes/importer/menu.php:206, includes/classes/importer/menu.php:217
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/classes/importer/menu.php:136
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: includes/classes/importer/menu.php:154
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: includes/classes/importer/menu.php:207
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/classes/importer/menu.php:278
+msgid "All done."
+msgstr ""
+
+#: includes/classes/importer/menu.php:278
+msgid "Have fun!"
+msgstr ""
+
+#: includes/classes/menu/items.php:43
+msgid "User Link"
+msgstr ""
+
+#: includes/classes/user/codes.php:19
+msgid "Avatar"
+msgstr ""
+
+#: includes/classes/user/codes.php:20
+msgid "First Name"
+msgstr ""
+
+#: includes/classes/user/codes.php:21
+msgid "Last Name"
+msgstr ""
+
+#: includes/classes/user/codes.php:22
+msgid "Username"
+msgstr ""
+
+#: includes/classes/user/codes.php:23
+msgid "Display Name"
+msgstr ""
+
+#: includes/classes/user/codes.php:24
+msgid "Nickname"
+msgstr ""
+
+#: includes/classes/user/codes.php:25
+msgid "Email"
+msgstr ""
+
+#: user-menus.php:172
+msgid "The %4$s %1$s %5$s plugin requires %2$s version %3$s or greater."
+msgstr ""
+
+#: user-menus.php:174
+msgid "Plugin Activation Error"
+msgstr ""
