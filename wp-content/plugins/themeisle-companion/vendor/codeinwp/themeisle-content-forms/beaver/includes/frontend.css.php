@@ -1,2 +1,0 @@
-<?php
-// wait a sec
